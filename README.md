@@ -86,3 +86,14 @@ Python · yfinance · NumPy · pandas · SciPy · arch · Matplotlib · Seaborn
 
 ## Dashboard
 <img width="3766" height="4258" alt="portfolio_risk_dashboard" src="https://github.com/user-attachments/assets/3a40ce7a-6722-49be-bded-e54fe28bb6c1" />
+
+
+---
+
+## AI Attribution
+
+This project was developed with the assistance of [Claude](https://www.anthropic.com/claude) (Anthropic). Claude was used to support code organization, improve code structure and readability, and enhance overall efficiency of the implementation.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
